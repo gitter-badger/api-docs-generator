@@ -1,4 +1,6 @@
 # api-docs-generator
+
+[![Join the chat at https://gitter.im/Medisafe/api-docs-generator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Medisafe/api-docs-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 API docs generator written in Go, and it's simple
 
 The generator, takes `api.json` that was created by you with all endpoints definitions and creates the final html page.
